@@ -28,6 +28,16 @@ $arg = "SomeOne";
 
 print($arg);
 
+$fname = "Dhanuka";
+$lname = "Lakshan";
+
+echo $fname,$lname;
+
+
+// $fname = "Gunjan";  
+// $lname = "Garg";  //Error
+// print "My name is: ".$fname,$lname;  
+
 
 
         ?>
